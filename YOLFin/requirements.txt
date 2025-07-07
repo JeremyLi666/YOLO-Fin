@@ -1,0 +1,8 @@
+pandas
+ccxt 
+datetime
+os
+matplotlib
+backtrader
+pyts
+pillow
