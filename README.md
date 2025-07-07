@@ -1,4 +1,4 @@
-
+##FOR XJTLU SURF YOLO-FIN ONLY LATEST UPDATED ON 7.7.2025
 步骤：
 1. 配置好python环境
 2. 在#General Graph -- Fetch_data中配置好自己的电脑端口 （设置--网络和internet--手动设置代理--使用代理服务器）
